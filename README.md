@@ -2,7 +2,7 @@
 We provide various annotations of Manga109 dataset.
 
 # Annotation type list
-- [Comic Onomatopoeia (COO)](https://github.com/manga109/public-annotations/tree/main/COO-Comic-Onomatopoeia) <br>
+- [Comic Onomatopoeia (COO)](https://github.com/manga109/public-annotations/tree/main/COO-Comic-Onomatopoeia), Related project: https://github.com/ku21fan/COO-Comic-Onomatopoeia <br>
 Example of a xml file is shown below.
   ```xml 
   <?xml version='1.0' encoding='utf-8'?>
