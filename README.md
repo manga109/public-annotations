@@ -34,6 +34,34 @@ Example of a xml file is shown below.
   </book>
   ```
 
+- Manga109Dialog, Related project: [TODO]
+Example of a xml file is shown below.
+  ```xml 
+  <?xml version="1.0" ?>
+  <book title="ARMS">
+    <pages>
+      <page index="0" width="1654" height="1170"/>
+      <page index="1" width="1654" height="1170"/>
+      <page index="2" width="1654" height="1170">
+        <speaker_to_text id="20000001" text_id="00000001" speaker_id="00000002"/>
+      </page>
+      <page index="3" width="1654" height="1170">
+        <speaker_to_text id="20000002" text_id="00000018" speaker_id="00000012"/>
+        <speaker_to_text id="20000003" text_id="00000016" speaker_id="00000019"/>
+        <speaker_to_text id="20000004" text_id="00000007" speaker_id="00000006"/>
+        <speaker_to_text id="20000005" text_id="0000001e" speaker_id="00000011"/>
+        <speaker_to_text id="20000006" text_id="0000000b" speaker_id="00000008"/>
+        <speaker_to_text id="20000007" text_id="0000001b" speaker_id="00000019"/>
+        <speaker_to_text id="20000008" text_id="00000013" speaker_id="00000019"/>
+        <speaker_to_text id="20000009" text_id="00000017" speaker_id="00000019"/>
+        <speaker_to_text id="2000000a" text_id="0000001a" speaker_id="00000012"/>
+      </page>
+      ...
+      ...                
+      ...
+    </pages>
+  </book>
+  ```
 
 # Citation
 When using annotations of comic onomatopoeia dataset (COO), please cite our paper.
