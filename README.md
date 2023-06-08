@@ -1,8 +1,16 @@
 # Public-annotations
 We provide various annotations of Manga109 dataset.
+- [Comic Onomatopoeia (COO)](#comic-onomatopoeia-coo)
+- [Manga109Dialog](#Manga109dialog)
 
-# Annotation type list
-- [Comic Onomatopoeia (COO)](https://github.com/manga109/public-annotations/tree/main/COO-Comic-Onomatopoeia), Related project: https://github.com/ku21fan/COO-Comic-Onomatopoeia <br>
+
+
+
+## Comic Onomatopoeia (COO)
+
+[Comic Onomatopoeia (COO)](https://github.com/manga109/public-annotations/tree/main/COO-Comic-Onomatopoeia), Related project: https://github.com/ku21fan/COO-Comic-Onomatopoeia
+
+### Annotation type list
 Example of a xml file is shown below.
   ```xml 
   <?xml version='1.0' encoding='utf-8'?>
@@ -34,7 +42,25 @@ Example of a xml file is shown below.
   </book>
   ```
 
-- [Manga109Dialog](https://github.com/manga109/public-annotations/tree/main/Manga109Dialog), Related project: [TODO]<br>
+### Citation
+When using annotations of comic onomatopoeia dataset (COO), please cite our paper.
+```
+@inproceedings{baek2022COO,
+  title={COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts},
+  author={Baek, Jeonghun and Matsui, Yusuke and Aizawa, Kiyoharu},
+  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
+  year={2022}
+}
+```
+
+
+### License
+The annotations of comic onomatopoeia dataset (COO) and Manga109Dialog belong to [Aizawa Yamakata Matsui Lab](http://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml) and are licensed under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See the [LICENCE_COO](./LICENSE_COO).
+
+## Manga109Dialog
+[Manga109Dialog](https://github.com/manga109/public-annotations/tree/main/Manga109Dialog), Related project: [TODO]
+
+### Annotation type list
 Example of a xml file is shown below.
   ```xml 
   <?xml version="1.0" ?>
@@ -63,20 +89,9 @@ Example of a xml file is shown below.
   </book>
   ```
 
-# Citation
-When using annotations of comic onomatopoeia dataset (COO), please cite our paper.
-```
-@inproceedings{baek2022COO,
-  title={COO: Comic Onomatopoeia Dataset for Recognizing Arbitrary or Truncated Texts},
-  author={Baek, Jeonghun and Matsui, Yusuke and Aizawa, Kiyoharu},
-  booktitle={Proceedings of the European Conference on Computer Vision (ECCV)},
-  year={2022}
-}
-```
+### Citation
+TODO
 
 
-
-
-
-# License
-The annotations of comic onomatopoeia dataset (COO) and Manga109Dialog belong to [Aizawa Yamakata Matsui Lab](http://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml) and are licensed under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+### License
+TODO
