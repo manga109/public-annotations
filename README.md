@@ -55,7 +55,7 @@ When using annotations of comic onomatopoeia dataset (COO), please cite our pape
 
 
 ### License
-The annotations of comic onomatopoeia dataset (COO) and Manga109Dialog belong to [Aizawa Yamakata Matsui Lab](http://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml) and are licensed under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See the [LICENCE_COO](./LICENSE_COO).
+The annotations of comic onomatopoeia dataset (COO) belong to [Aizawa Yamakata Matsui Lab](http://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml) and are licensed under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See the [LICENCE_COO](./LICENSE_COO).
 
 ## Manga109Dialog
 [Manga109Dialog](https://github.com/manga109/public-annotations/tree/main/Manga109Dialog), Related project: [TODO]
