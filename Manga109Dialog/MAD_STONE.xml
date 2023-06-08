@@ -1,0 +1,725 @@
+<?xml version="1.0" ?>
+<book title="MAD_STONE">
+	<pages>
+		<page index="0" width="1654" height="1170"/>
+		<page index="1" width="1654" height="1170"/>
+		<page index="2" width="1654" height="1170">
+			<speaker_to_text id="2000e835" text_id="0003907c" speaker_id="0003907b"/>
+			<speaker_to_text id="2000e836" text_id="00039083" speaker_id="00039080"/>
+			<speaker_to_text id="2000e837" text_id="0003907d" speaker_id="0003908a"/>
+		</page>
+		<page index="3" width="1654" height="1170">
+			<speaker_to_text id="2000e838" text_id="000390a5" speaker_id="00039092"/>
+			<speaker_to_text id="2000e839" text_id="000390a1" speaker_id="00039095"/>
+			<speaker_to_text id="2000e83a" text_id="0003908f" speaker_id="000390a2"/>
+		</page>
+		<page index="4" width="1654" height="1170">
+			<speaker_to_text id="2000e83b" text_id="000390b4" speaker_id="000390b2"/>
+			<speaker_to_text id="2000e83c" text_id="000390ad" speaker_id="000390bd"/>
+		</page>
+		<page index="5" width="1654" height="1170">
+			<speaker_to_text id="2000e83d" text_id="000390c8" speaker_id="000390dd"/>
+			<speaker_to_text id="2000e83e" text_id="000390e1" speaker_id="000390e2"/>
+			<speaker_to_text id="2000e83f" text_id="000390d2" speaker_id="000390e4"/>
+			<speaker_to_text id="2000e840" text_id="000390c5" speaker_id="000390cf"/>
+			<speaker_to_text id="2000e841" text_id="000390e5" speaker_id="000390d6"/>
+			<speaker_to_text id="2000e842" text_id="000390d3" speaker_id="000390dd"/>
+		</page>
+		<page index="6" width="1654" height="1170">
+			<speaker_to_text id="2000e843" text_id="00039106" speaker_id="00039103"/>
+			<speaker_to_text id="2000e844" text_id="000390e8" speaker_id="00039108"/>
+			<speaker_to_text id="2000e845" text_id="00039107" speaker_id="000390f5"/>
+			<speaker_to_text id="2000e846" text_id="000390fe" speaker_id="00039108"/>
+			<speaker_to_text id="2000e847" text_id="000390ee" speaker_id="00039101"/>
+			<speaker_to_text id="2000e848" text_id="000390eb" speaker_id="000390f5"/>
+			<speaker_to_text id="2000e849" text_id="000390e7" speaker_id="000390f5"/>
+			<speaker_to_text id="2000e84a" text_id="000390f2" speaker_id="000390f5"/>
+			<speaker_to_text id="2000e84b" text_id="000390fd" speaker_id="000390f1"/>
+			<speaker_to_text id="2000e84c" text_id="000390ea" speaker_id="000390f0"/>
+			<speaker_to_text id="2000e84d" text_id="000390f3" speaker_id="00039103"/>
+		</page>
+		<page index="7" width="1654" height="1170">
+			<speaker_to_text id="2000e84e" text_id="0003910c" speaker_id="00039120"/>
+			<speaker_to_text id="2000e84f" text_id="00039115" speaker_id="00039123"/>
+			<speaker_to_text id="2000e850" text_id="00039111" speaker_id="0003911d"/>
+			<speaker_to_text id="2000e851" text_id="00039131" speaker_id="00039116"/>
+			<speaker_to_text id="2000e852" text_id="0003912a" speaker_id="00039127"/>
+			<speaker_to_text id="2000e853" text_id="0003912f" speaker_id="0003911a"/>
+			<speaker_to_text id="2000e854" text_id="0003911f" speaker_id="00039132"/>
+			<speaker_to_text id="2000e855" text_id="00039112" speaker_id="00039123"/>
+			<speaker_to_text id="2000e856" text_id="00039121" speaker_id="0003911c"/>
+			<speaker_to_text id="2000e857" text_id="00039122" speaker_id="00039116"/>
+		</page>
+		<page index="8" width="1654" height="1170">
+			<speaker_to_text id="2000e858" text_id="0003913a" speaker_id="00039135"/>
+			<speaker_to_text id="2000e859" text_id="00039138" speaker_id="0003913e"/>
+		</page>
+		<page index="9" width="1654" height="1170">
+			<speaker_to_text id="2000e85a" text_id="00039147" speaker_id="00039160"/>
+			<speaker_to_text id="2000e85b" text_id="0003915e" speaker_id="00039152"/>
+			<speaker_to_text id="2000e85c" text_id="00039156" speaker_id="00039159"/>
+			<speaker_to_text id="2000e85d" text_id="00039150" speaker_id="00039146"/>
+		</page>
+		<page index="10" width="1654" height="1170">
+			<speaker_to_text id="2000e85e" text_id="00039164" speaker_id="0003916e"/>
+			<speaker_to_text id="2000e85f" text_id="0003916d" speaker_id="00039171"/>
+			<speaker_to_text id="2000e860" text_id="00039162" speaker_id="00039166"/>
+			<speaker_to_text id="2000e861" text_id="00039165" speaker_id="00039171"/>
+			<speaker_to_text id="2000e862" text_id="00039175" speaker_id="00039163"/>
+			<speaker_to_text id="2000e863" text_id="0003916b" speaker_id="00039166"/>
+			<speaker_to_text id="2000e864" text_id="00039172" speaker_id="0003916e"/>
+		</page>
+		<page index="11" width="1654" height="1170">
+			<speaker_to_text id="2000e865" text_id="00039198" speaker_id="00039192"/>
+			<speaker_to_text id="2000e866" text_id="0003917f" speaker_id="00039179"/>
+			<speaker_to_text id="2000e867" text_id="0003919e" speaker_id="00039192"/>
+			<speaker_to_text id="2000e868" text_id="00039199" speaker_id="00039182"/>
+			<speaker_to_text id="2000e869" text_id="0003918d" speaker_id="00039182"/>
+			<speaker_to_text id="2000e86a" text_id="00039193" speaker_id="0003918c"/>
+			<speaker_to_text id="2000e86b" text_id="00039187" speaker_id="00039182"/>
+			<speaker_to_text id="2000e86c" text_id="0003917e" speaker_id="00039179"/>
+			<speaker_to_text id="2000e86d" text_id="00039186" speaker_id="00039182"/>
+		</page>
+		<page index="12" width="1654" height="1170">
+			<speaker_to_text id="2000e86e" text_id="000391a8" speaker_id="000391b2"/>
+			<speaker_to_text id="2000e86f" text_id="000391b1" speaker_id="000391c1"/>
+			<speaker_to_text id="2000e870" text_id="000391bd" speaker_id="000391ba"/>
+			<speaker_to_text id="2000e871" text_id="000391c4" speaker_id="000391b2"/>
+			<speaker_to_text id="2000e872" text_id="000391b9" speaker_id="000391ba"/>
+			<speaker_to_text id="2000e873" text_id="000391b5" speaker_id="000391aa"/>
+			<speaker_to_text id="2000e874" text_id="000391c0" speaker_id="000391aa"/>
+		</page>
+		<page index="13" width="1654" height="1170">
+			<speaker_to_text id="2000e875" text_id="000391dd" speaker_id="000391cf"/>
+			<speaker_to_text id="2000e876" text_id="000391cc" speaker_id="000391ce"/>
+			<speaker_to_text id="2000e877" text_id="000391cb" speaker_id="000391c6"/>
+			<speaker_to_text id="2000e878" text_id="000391d7" speaker_id="000391c6"/>
+			<speaker_to_text id="2000e879" text_id="000391dc" speaker_id="000391c6"/>
+			<speaker_to_text id="2000e87a" text_id="000391d6" speaker_id="000391ce"/>
+		</page>
+		<page index="14" width="1654" height="1170">
+			<speaker_to_text id="2000e87b" text_id="000391f1" speaker_id="000391e8"/>
+			<speaker_to_text id="2000e87c" text_id="000391eb" speaker_id="000391ec"/>
+			<speaker_to_text id="2000e87d" text_id="000391e6" speaker_id="000391ef"/>
+			<speaker_to_text id="2000e87e" text_id="000391ff" speaker_id="000391fb"/>
+			<speaker_to_text id="2000e87f" text_id="000391e7" speaker_id="000391ef"/>
+			<speaker_to_text id="2000e880" text_id="000391f3" speaker_id="000391fb"/>
+			<speaker_to_text id="2000e881" text_id="000391ea" speaker_id="000391e8"/>
+		</page>
+		<page index="15" width="1654" height="1170">
+			<speaker_to_text id="2000e882" text_id="0003920a" speaker_id="00039212"/>
+			<speaker_to_text id="2000e883" text_id="00039203" speaker_id="00039212"/>
+		</page>
+		<page index="16" width="1654" height="1170">
+			<speaker_to_text id="2000e884" text_id="00039235" speaker_id="0003921c"/>
+			<speaker_to_text id="2000e885" text_id="00039221" speaker_id="0003923f"/>
+			<speaker_to_text id="2000e886" text_id="0003922d" speaker_id="00039229"/>
+			<speaker_to_text id="2000e887" text_id="0003923e" speaker_id="0003923c"/>
+			<speaker_to_text id="2000e888" text_id="0003922e" speaker_id="00039239"/>
+			<speaker_to_text id="2000e889" text_id="0003921f" speaker_id="00039232"/>
+			<speaker_to_text id="2000e88a" text_id="0003923b" speaker_id="0003921b"/>
+			<speaker_to_text id="2000e88b" text_id="0003922f" speaker_id="0003921b"/>
+			<speaker_to_text id="2000e88c" text_id="00039227" speaker_id="00039224"/>
+			<speaker_to_text id="2000e88d" text_id="00039244" speaker_id="0003923c"/>
+			<speaker_to_text id="2000e88e" text_id="00039242" speaker_id="0003923f"/>
+		</page>
+		<page index="17" width="1654" height="1170">
+			<speaker_to_text id="2000e88f" text_id="0003925f" speaker_id="0003925b"/>
+			<speaker_to_text id="2000e890" text_id="00039257" speaker_id="00039267"/>
+			<speaker_to_text id="2000e891" text_id="0003924e" speaker_id="00039252"/>
+			<speaker_to_text id="2000e892" text_id="00039258" speaker_id="0003925d"/>
+			<speaker_to_text id="2000e893" text_id="00039269" speaker_id="0003925d"/>
+			<speaker_to_text id="2000e894" text_id="00039261" speaker_id="00039264"/>
+			<speaker_to_text id="2000e895" text_id="00039247" speaker_id="00039256"/>
+			<speaker_to_text id="2000e896" text_id="0003924b" speaker_id="00039264"/>
+		</page>
+		<page index="18" width="1654" height="1170">
+			<speaker_to_text id="2000e897" text_id="00039278" speaker_id="0003926e"/>
+			<speaker_to_text id="2000e898" text_id="0003927f" speaker_id="0003928b"/>
+			<speaker_to_text id="2000e899" text_id="00039282" speaker_id="00039271"/>
+			<speaker_to_text id="2000e89a" text_id="00039295" speaker_id="0003926e"/>
+			<speaker_to_text id="2000e89b" text_id="00039272" speaker_id="00039275"/>
+			<speaker_to_text id="2000e89c" text_id="00039297" speaker_id="0003928a"/>
+			<speaker_to_text id="2000e89d" text_id="00039299" speaker_id="00039298"/>
+			<speaker_to_text id="2000e89e" text_id="00039292" speaker_id="00039286"/>
+			<speaker_to_text id="2000e89f" text_id="00039277" speaker_id="00039294"/>
+		</page>
+		<page index="19" width="1654" height="1170">
+			<speaker_to_text id="2000e8a0" text_id="000392a2" speaker_id="000392a3"/>
+			<speaker_to_text id="2000e8a1" text_id="0003929a" speaker_id="0003929c"/>
+		</page>
+		<page index="20" width="1654" height="1170">
+			<speaker_to_text id="2000e8a2" text_id="000392c7" speaker_id="000392b3"/>
+			<speaker_to_text id="2000e8a3" text_id="000392b0" speaker_id="000392aa"/>
+			<speaker_to_text id="2000e8a4" text_id="000392bc" speaker_id="000392a6"/>
+			<speaker_to_text id="2000e8a5" text_id="000392a8" speaker_id="000392b3"/>
+			<speaker_to_text id="2000e8a6" text_id="000392bf" speaker_id="000392b6"/>
+			<speaker_to_text id="2000e8a7" text_id="000392b9" speaker_id="000392b6"/>
+			<speaker_to_text id="2000e8a8" text_id="000392ad" speaker_id="000392c2"/>
+			<speaker_to_text id="2000e8a9" text_id="000392b5" speaker_id="000392b2"/>
+		</page>
+		<page index="21" width="1654" height="1170">
+			<speaker_to_text id="2000e8aa" text_id="000392d1" speaker_id="000392e1"/>
+			<speaker_to_text id="2000e8ab" text_id="000392db" speaker_id="000392e1"/>
+			<speaker_to_text id="2000e8ac" text_id="000392d4" speaker_id="000392c8"/>
+			<speaker_to_text id="2000e8ad" text_id="000392dd" speaker_id="000392e4"/>
+			<speaker_to_text id="2000e8ae" text_id="000392d0" speaker_id="000392c9"/>
+			<speaker_to_text id="2000e8af" text_id="000392cb" speaker_id="000392e4"/>
+			<speaker_to_text id="2000e8b0" text_id="000392cd" speaker_id="000392d6"/>
+		</page>
+		<page index="22" width="1654" height="1170">
+			<speaker_to_text id="2000e8b1" text_id="000392e8" speaker_id="00039300"/>
+			<speaker_to_text id="2000e8b2" text_id="000392f1" speaker_id="00039308"/>
+			<speaker_to_text id="2000e8b3" text_id="000392eb" speaker_id="000392ee"/>
+			<speaker_to_text id="2000e8b4" text_id="000392f9" speaker_id="000392ee"/>
+			<speaker_to_text id="2000e8b5" text_id="000392ec" speaker_id="000392ee"/>
+			<speaker_to_text id="2000e8b6" text_id="000392f8" speaker_id="000392ee"/>
+			<speaker_to_text id="2000e8b7" text_id="00039301" speaker_id="00039307"/>
+			<speaker_to_text id="2000e8b8" text_id="00039303" speaker_id="000392f0"/>
+			<speaker_to_text id="2000e8b9" text_id="00039302" speaker_id="00039300"/>
+			<speaker_to_text id="2000e8ba" text_id="000392fd" speaker_id="00039307"/>
+		</page>
+		<page index="23" width="1654" height="1170">
+			<speaker_to_text id="2000e8bb" text_id="00039318" speaker_id="00039334"/>
+			<speaker_to_text id="2000e8bc" text_id="00039335" speaker_id="00039323"/>
+			<speaker_to_text id="2000e8bd" text_id="0003932f" speaker_id="00039319"/>
+			<speaker_to_text id="2000e8be" text_id="00039320" speaker_id="0003931a"/>
+			<speaker_to_text id="2000e8bf" text_id="0003931c" speaker_id="00039334"/>
+			<speaker_to_text id="2000e8c0" text_id="0003930d" speaker_id="00039336"/>
+			<speaker_to_text id="2000e8c1" text_id="00039324" speaker_id="0003931a"/>
+			<speaker_to_text id="2000e8c2" text_id="00039322" speaker_id="00039314"/>
+			<speaker_to_text id="2000e8c3" text_id="00039337" speaker_id="00039332"/>
+			<speaker_to_text id="2000e8c4" text_id="00039329" speaker_id="0003932a"/>
+			<speaker_to_text id="2000e8c5" text_id="0003932d" speaker_id="00039333"/>
+		</page>
+		<page index="24" width="1654" height="1170">
+			<speaker_to_text id="2000e8c6" text_id="0003934f" speaker_id="0003934b"/>
+			<speaker_to_text id="2000e8c7" text_id="00039347" speaker_id="00039349"/>
+			<speaker_to_text id="2000e8c8" text_id="00039339" speaker_id="00039343"/>
+			<speaker_to_text id="2000e8c9" text_id="0003933f" speaker_id="0003934b"/>
+			<speaker_to_text id="2000e8ca" text_id="00039338" speaker_id="0003934b"/>
+			<speaker_to_text id="2000e8cb" text_id="00039344" speaker_id="00039341"/>
+			<speaker_to_text id="2000e8cc" text_id="00039351" speaker_id="0003934b"/>
+		</page>
+		<page index="25" width="1654" height="1170"/>
+		<page index="26" width="1654" height="1170">
+			<speaker_to_text id="2000e8cd" text_id="0003936a" speaker_id="00039362"/>
+			<speaker_to_text id="2000e8ce" text_id="00039364" speaker_id="00039366"/>
+		</page>
+		<page index="27" width="1654" height="1170">
+			<speaker_to_text id="2000e8cf" text_id="00039374" speaker_id="00039383"/>
+			<speaker_to_text id="2000e8d0" text_id="00039372" speaker_id="00039381"/>
+			<speaker_to_text id="2000e8d1" text_id="00039392" speaker_id="00039380"/>
+			<speaker_to_text id="2000e8d2" text_id="00039396" speaker_id="0003936f"/>
+			<speaker_to_text id="2000e8d3" text_id="00039389" speaker_id="00039382"/>
+			<speaker_to_text id="2000e8d4" text_id="00039388" speaker_id="0003936e"/>
+			<speaker_to_text id="2000e8d5" text_id="00039384" speaker_id="00039382"/>
+		</page>
+		<page index="28" width="1654" height="1170">
+			<speaker_to_text id="2000e8d6" text_id="000393b3" speaker_id="000393aa"/>
+			<speaker_to_text id="2000e8d7" text_id="00039398" speaker_id="000393a1"/>
+			<speaker_to_text id="2000e8d8" text_id="000393a6" speaker_id="000393b7"/>
+			<speaker_to_text id="2000e8d9" text_id="000393b1" speaker_id="000393aa"/>
+			<speaker_to_text id="2000e8da" text_id="000393b6" speaker_id="000393ab"/>
+			<speaker_to_text id="2000e8db" text_id="000393b4" speaker_id="000393b7"/>
+			<speaker_to_text id="2000e8dc" text_id="000393a2" speaker_id="000393ad"/>
+			<speaker_to_text id="2000e8dd" text_id="000393a9" speaker_id="000393ac"/>
+			<speaker_to_text id="2000e8de" text_id="00039397" speaker_id="000393ab"/>
+			<speaker_to_text id="2000e8df" text_id="000393b5" speaker_id="000393aa"/>
+		</page>
+		<page index="29" width="1654" height="1170">
+			<speaker_to_text id="2000e8e0" text_id="000393c3" speaker_id="000393dd"/>
+			<speaker_to_text id="2000e8e1" text_id="000393bc" speaker_id="000393d9"/>
+			<speaker_to_text id="2000e8e2" text_id="000393d2" speaker_id="000393cd"/>
+			<speaker_to_text id="2000e8e3" text_id="000393e1" speaker_id="000393c0"/>
+			<speaker_to_text id="2000e8e4" text_id="000393d0" speaker_id="000393e5"/>
+			<speaker_to_text id="2000e8e5" text_id="000393b9" speaker_id="000393e7"/>
+			<speaker_to_text id="2000e8e6" text_id="000393ca" speaker_id="000393c6"/>
+			<speaker_to_text id="2000e8e7" text_id="000393dc" speaker_id="000393df"/>
+		</page>
+		<page index="30" width="1654" height="1170">
+			<speaker_to_text id="2000e8e8" text_id="000393e9" speaker_id="000393fb"/>
+			<speaker_to_text id="2000e8e9" text_id="000393eb" speaker_id="000393f1"/>
+			<speaker_to_text id="2000e8ea" text_id="000393fa" speaker_id="000393e8"/>
+			<speaker_to_text id="2000e8eb" text_id="000393ec" speaker_id="000393fb"/>
+			<speaker_to_text id="2000e8ec" text_id="000393f8" speaker_id="000393fb"/>
+			<speaker_to_text id="2000e8ed" text_id="000393fe" speaker_id="000393e8"/>
+			<speaker_to_text id="2000e8ee" text_id="000393fd" speaker_id="000393f1"/>
+			<speaker_to_text id="2000e8ef" text_id="00039408" speaker_id="000393fb"/>
+			<speaker_to_text id="2000e8f0" text_id="000393f7" speaker_id="000393fb"/>
+			<speaker_to_text id="2000e8f1" text_id="00039407" speaker_id="000393f1"/>
+			<speaker_to_text id="2000e8f2" text_id="000393f6" speaker_id="000393f3"/>
+			<speaker_to_text id="2000e8f3" text_id="00039404" speaker_id="000393f1"/>
+			<speaker_to_text id="2000e8f4" text_id="000393ed" speaker_id="000393f5"/>
+		</page>
+		<page index="31" width="1654" height="1170">
+			<speaker_to_text id="2000e8f5" text_id="0003941f" speaker_id="00039412"/>
+			<speaker_to_text id="2000e8f6" text_id="00039423" speaker_id="00039417"/>
+			<speaker_to_text id="2000e8f7" text_id="0003943c" speaker_id="00039426"/>
+			<speaker_to_text id="2000e8f8" text_id="00039425" speaker_id="00039430"/>
+			<speaker_to_text id="2000e8f9" text_id="0003940c" speaker_id="0003941b"/>
+			<speaker_to_text id="2000e8fa" text_id="00039414" speaker_id="0003942f"/>
+			<speaker_to_text id="2000e8fb" text_id="00039424" speaker_id="0003940d"/>
+		</page>
+		<page index="32" width="1654" height="1170">
+			<speaker_to_text id="2000e8fc" text_id="0003943f" speaker_id="0003944c"/>
+			<speaker_to_text id="2000e8fd" text_id="00039443" speaker_id="00039445"/>
+		</page>
+		<page index="33" width="1654" height="1170">
+			<speaker_to_text id="2000e8fe" text_id="0003946f" speaker_id="0003945e"/>
+			<speaker_to_text id="2000e8ff" text_id="00039461" speaker_id="00039475"/>
+			<speaker_to_text id="2000e900" text_id="0003946e" speaker_id="00039475"/>
+			<speaker_to_text id="2000e901" text_id="00039477" speaker_id="0003946c"/>
+			<speaker_to_text id="2000e902" text_id="00039470" speaker_id="00039465"/>
+			<speaker_to_text id="2000e903" text_id="0003945a" speaker_id="0003946c"/>
+		</page>
+		<page index="34" width="1654" height="1170">
+			<speaker_to_text id="2000e904" text_id="000394a2" speaker_id="00039496"/>
+			<speaker_to_text id="2000e905" text_id="0003948b" speaker_id="000394a5"/>
+			<speaker_to_text id="2000e906" text_id="0003947b" speaker_id="0003947a"/>
+			<speaker_to_text id="2000e907" text_id="000394a9" speaker_id="00039485"/>
+			<speaker_to_text id="2000e908" text_id="0003948d" speaker_id="00039490"/>
+			<speaker_to_text id="2000e909" text_id="0003949e" speaker_id="00039498"/>
+			<speaker_to_text id="2000e90a" text_id="00039499" speaker_id="00039497"/>
+			<speaker_to_text id="2000e90b" text_id="00039495" speaker_id="00039485"/>
+			<speaker_to_text id="2000e90c" text_id="00039494" speaker_id="000394a4"/>
+			<speaker_to_text id="2000e90d" text_id="00039482" speaker_id="0003949a"/>
+		</page>
+		<page index="35" width="1654" height="1170">
+			<speaker_to_text id="2000e90e" text_id="000394c1" speaker_id="000394c8"/>
+			<speaker_to_text id="2000e90f" text_id="000394c7" speaker_id="000394aa"/>
+			<speaker_to_text id="2000e910" text_id="000394c5" speaker_id="000394ae"/>
+			<speaker_to_text id="2000e911" text_id="000394cd" speaker_id="000394b8"/>
+			<speaker_to_text id="2000e912" text_id="000394b0" speaker_id="000394c3"/>
+			<speaker_to_text id="2000e913" text_id="000394bb" speaker_id="000394cc"/>
+			<speaker_to_text id="2000e914" text_id="000394b6" speaker_id="000394c4"/>
+			<speaker_to_text id="2000e915" text_id="000394d2" speaker_id="000394c4"/>
+			<speaker_to_text id="2000e916" text_id="000394b2" speaker_id="000394c4"/>
+			<speaker_to_text id="2000e917" text_id="000394c0" speaker_id="000394ad"/>
+			<speaker_to_text id="2000e918" text_id="000394d0" speaker_id="000394cc"/>
+		</page>
+		<page index="36" width="1654" height="1170">
+			<speaker_to_text id="2000e919" text_id="000394db" speaker_id="000394e6"/>
+			<speaker_to_text id="2000e91a" text_id="000394d7" speaker_id="000394e7"/>
+			<speaker_to_text id="2000e91b" text_id="000394f3" speaker_id="000394f4"/>
+			<speaker_to_text id="2000e91c" text_id="000394f1" speaker_id="000394f6"/>
+			<speaker_to_text id="2000e91d" text_id="000394ec" speaker_id="000394d5"/>
+			<speaker_to_text id="2000e91e" text_id="000394ed" speaker_id="000394f5"/>
+		</page>
+		<page index="37" width="1654" height="1170">
+			<speaker_to_text id="2000e91f" text_id="0003950f" speaker_id="000394fb"/>
+			<speaker_to_text id="2000e920" text_id="000394fc" speaker_id="000394fb"/>
+			<speaker_to_text id="2000e921" text_id="00039506" speaker_id="00039500"/>
+			<speaker_to_text id="2000e922" text_id="00039508" speaker_id="000394fb"/>
+			<speaker_to_text id="2000e923" text_id="00039505" speaker_id="000394fb"/>
+		</page>
+		<page index="38" width="1654" height="1170">
+			<speaker_to_text id="2000e924" text_id="00039515" speaker_id="0003952c"/>
+		</page>
+		<page index="39" width="1654" height="1170">
+			<speaker_to_text id="2000e925" text_id="0003954d" speaker_id="00039540"/>
+			<speaker_to_text id="2000e926" text_id="00039541" speaker_id="00039537"/>
+			<speaker_to_text id="2000e927" text_id="0003954a" speaker_id="00039530"/>
+			<speaker_to_text id="2000e928" text_id="00039543" speaker_id="00039537"/>
+			<speaker_to_text id="2000e929" text_id="00039551" speaker_id="00039548"/>
+			<speaker_to_text id="2000e92a" text_id="00039536" speaker_id="0003954b"/>
+			<speaker_to_text id="2000e92b" text_id="00039550" speaker_id="00039540"/>
+		</page>
+		<page index="40" width="1654" height="1170">
+			<speaker_to_text id="2000e92c" text_id="00039553" speaker_id="00039568"/>
+			<speaker_to_text id="2000e92d" text_id="00039569" speaker_id="0003955a"/>
+		</page>
+		<page index="41" width="1654" height="1170">
+			<speaker_to_text id="2000e92e" text_id="00039575" speaker_id="00039571"/>
+			<speaker_to_text id="2000e92f" text_id="0003956e" speaker_id="00039597"/>
+			<speaker_to_text id="2000e930" text_id="0003956f" speaker_id="0003958f"/>
+			<speaker_to_text id="2000e931" text_id="0003956c" speaker_id="00039588"/>
+			<speaker_to_text id="2000e932" text_id="00039577" speaker_id="00039581"/>
+			<speaker_to_text id="2000e933" text_id="00039573" speaker_id="00039597"/>
+			<speaker_to_text id="2000e934" text_id="0003958c" speaker_id="00039578"/>
+			<speaker_to_text id="2000e935" text_id="00039596" speaker_id="00039584"/>
+			<speaker_to_text id="2000e936" text_id="0003956d" speaker_id="00039588"/>
+			<speaker_to_text id="2000e937" text_id="00039594" speaker_id="0003959b"/>
+			<speaker_to_text id="2000e938" text_id="00039572" speaker_id="00039571"/>
+			<speaker_to_text id="2000e939" text_id="0003956b" speaker_id="00039578"/>
+		</page>
+		<page index="42" width="1654" height="1170">
+			<speaker_to_text id="2000e93a" text_id="000395a2" speaker_id="000395b5"/>
+			<speaker_to_text id="2000e93b" text_id="000395ac" speaker_id="000395b5"/>
+			<speaker_to_text id="2000e93c" text_id="000395ad" speaker_id="000395a8"/>
+			<speaker_to_text id="2000e93d" text_id="000395a5" speaker_id="0003959c"/>
+			<speaker_to_text id="2000e93e" text_id="000395b4" speaker_id="000395b5"/>
+			<speaker_to_text id="2000e93f" text_id="000395a9" speaker_id="000395a4"/>
+			<speaker_to_text id="2000e940" text_id="0003959f" speaker_id="000395a8"/>
+			<speaker_to_text id="2000e941" text_id="000395a6" speaker_id="000395a4"/>
+			<speaker_to_text id="2000e942" text_id="000395b3" speaker_id="000395b5"/>
+		</page>
+		<page index="43" width="1654" height="1170">
+			<speaker_to_text id="2000e943" text_id="000395c4" speaker_id="000395cc"/>
+			<speaker_to_text id="2000e944" text_id="000395cf" speaker_id="000395cc"/>
+			<speaker_to_text id="2000e945" text_id="000395ce" speaker_id="000395b7"/>
+			<speaker_to_text id="2000e946" text_id="000395c0" speaker_id="000395d2"/>
+			<speaker_to_text id="2000e947" text_id="000395c6" speaker_id="000395d2"/>
+		</page>
+		<page index="44" width="1654" height="1170">
+			<speaker_to_text id="2000e948" text_id="000395da" speaker_id="000395de"/>
+		</page>
+		<page index="45" width="1654" height="1170">
+			<speaker_to_text id="2000e949" text_id="000395e3" speaker_id="000395fc"/>
+			<speaker_to_text id="2000e94a" text_id="000395fd" speaker_id="000395f5"/>
+			<speaker_to_text id="2000e94b" text_id="000395f0" speaker_id="000395ed"/>
+			<speaker_to_text id="2000e94c" text_id="000395e7" speaker_id="000395e5"/>
+			<speaker_to_text id="2000e94d" text_id="000395ee" speaker_id="00039601"/>
+		</page>
+		<page index="46" width="1654" height="1170">
+			<speaker_to_text id="2000e94e" text_id="00039607" speaker_id="00039602"/>
+			<speaker_to_text id="2000e94f" text_id="0003960c" speaker_id="00039608"/>
+			<speaker_to_text id="2000e950" text_id="0003960a" speaker_id="00039608"/>
+			<speaker_to_text id="2000e951" text_id="00039606" speaker_id="00039602"/>
+		</page>
+		<page index="47" width="1654" height="1170">
+			<speaker_to_text id="2000e952" text_id="0003963a" speaker_id="00039617"/>
+			<speaker_to_text id="2000e953" text_id="0003962c" speaker_id="00039638"/>
+			<speaker_to_text id="2000e954" text_id="00039612" speaker_id="00039623"/>
+			<speaker_to_text id="2000e955" text_id="00039614" speaker_id="00039615"/>
+			<speaker_to_text id="2000e956" text_id="00039621" speaker_id="0003961b"/>
+			<speaker_to_text id="2000e957" text_id="00039627" speaker_id="00039615"/>
+			<speaker_to_text id="2000e958" text_id="00039636" speaker_id="00039623"/>
+			<speaker_to_text id="2000e959" text_id="00039628" speaker_id="00039629"/>
+		</page>
+		<page index="48" width="1654" height="1170">
+			<speaker_to_text id="2000e95a" text_id="00039657" speaker_id="0003963f"/>
+			<speaker_to_text id="2000e95b" text_id="0003963e" speaker_id="00039660"/>
+			<speaker_to_text id="2000e95c" text_id="00039650" speaker_id="00039655"/>
+			<speaker_to_text id="2000e95d" text_id="00039659" speaker_id="00039654"/>
+			<speaker_to_text id="2000e95e" text_id="0003965d" speaker_id="00039663"/>
+			<speaker_to_text id="2000e95f" text_id="00039645" speaker_id="0003964f"/>
+			<speaker_to_text id="2000e960" text_id="00039656" speaker_id="0003964f"/>
+			<speaker_to_text id="2000e961" text_id="0003965c" speaker_id="00039648"/>
+			<speaker_to_text id="2000e962" text_id="0003965e" speaker_id="00039643"/>
+		</page>
+		<page index="49" width="1654" height="1170">
+			<speaker_to_text id="2000e963" text_id="0003966e" speaker_id="00039665"/>
+			<speaker_to_text id="2000e964" text_id="0003966b" speaker_id="0003967a"/>
+			<speaker_to_text id="2000e965" text_id="0003966a" speaker_id="0003967a"/>
+			<speaker_to_text id="2000e966" text_id="00039688" speaker_id="00039668"/>
+			<speaker_to_text id="2000e967" text_id="00039677" speaker_id="00039668"/>
+			<speaker_to_text id="2000e968" text_id="0003966f" speaker_id="00039679"/>
+			<speaker_to_text id="2000e969" text_id="00039664" speaker_id="00039686"/>
+			<speaker_to_text id="2000e96a" text_id="00039685" speaker_id="00039672"/>
+			<speaker_to_text id="2000e96b" text_id="0003967c" speaker_id="00039679"/>
+		</page>
+		<page index="50" width="1654" height="1170">
+			<speaker_to_text id="2000e96c" text_id="000396b3" speaker_id="00039693"/>
+			<speaker_to_text id="2000e96d" text_id="0003969b" speaker_id="000396ae"/>
+			<speaker_to_text id="2000e96e" text_id="00039691" speaker_id="000396b0"/>
+			<speaker_to_text id="2000e96f" text_id="000396ad" speaker_id="0003969e"/>
+			<speaker_to_text id="2000e970" text_id="0003969d" speaker_id="00039694"/>
+			<speaker_to_text id="2000e971" text_id="000396ac" speaker_id="0003969e"/>
+			<speaker_to_text id="2000e972" text_id="0003968a" speaker_id="00039694"/>
+			<speaker_to_text id="2000e973" text_id="0003968b" speaker_id="000396ae"/>
+		</page>
+		<page index="51" width="1654" height="1170">
+			<speaker_to_text id="2000e974" text_id="000396c8" speaker_id="000396b6"/>
+			<speaker_to_text id="2000e975" text_id="000396b9" speaker_id="000396c7"/>
+			<speaker_to_text id="2000e976" text_id="000396c0" speaker_id="000396b6"/>
+			<speaker_to_text id="2000e977" text_id="000396b8" speaker_id="000396c9"/>
+			<speaker_to_text id="2000e978" text_id="000396ba" speaker_id="000396c2"/>
+			<speaker_to_text id="2000e979" text_id="000396c3" speaker_id="000396c2"/>
+			<speaker_to_text id="2000e97a" text_id="000396bd" speaker_id="000396c7"/>
+		</page>
+		<page index="52" width="1654" height="1170">
+			<speaker_to_text id="2000e97b" text_id="000396f3" speaker_id="000396d0"/>
+			<speaker_to_text id="2000e97c" text_id="000396cd" speaker_id="000396e6"/>
+			<speaker_to_text id="2000e97d" text_id="000396e8" speaker_id="000396da"/>
+			<speaker_to_text id="2000e97e" text_id="000396e2" speaker_id="000396dd"/>
+			<speaker_to_text id="2000e97f" text_id="000396cc" speaker_id="000396e9"/>
+			<speaker_to_text id="2000e980" text_id="000396fb" speaker_id="000396e6"/>
+			<speaker_to_text id="2000e981" text_id="000396cf" speaker_id="000396d7"/>
+			<speaker_to_text id="2000e982" text_id="000396e5" speaker_id="000396d8"/>
+			<speaker_to_text id="2000e983" text_id="000396e4" speaker_id="000396fa"/>
+		</page>
+		<page index="53" width="1654" height="1170">
+			<speaker_to_text id="2000e984" text_id="00039706" speaker_id="0003970c"/>
+			<speaker_to_text id="2000e985" text_id="00039712" speaker_id="0003970e"/>
+			<speaker_to_text id="2000e986" text_id="000396ff" speaker_id="0003970f"/>
+			<speaker_to_text id="2000e987" text_id="00039703" speaker_id="0003970c"/>
+		</page>
+		<page index="54" width="1654" height="1170">
+			<speaker_to_text id="2000e988" text_id="0003971c" speaker_id="0003972e"/>
+			<speaker_to_text id="2000e989" text_id="00039733" speaker_id="00039717"/>
+			<speaker_to_text id="2000e98a" text_id="00039720" speaker_id="0003972f"/>
+			<speaker_to_text id="2000e98b" text_id="00039723" speaker_id="00039724"/>
+			<speaker_to_text id="2000e98c" text_id="00039721" speaker_id="00039717"/>
+		</page>
+		<page index="55" width="1654" height="1170">
+			<speaker_to_text id="2000e98d" text_id="00039743" speaker_id="00039745"/>
+			<speaker_to_text id="2000e98e" text_id="0003974e" speaker_id="0003973c"/>
+			<speaker_to_text id="2000e98f" text_id="00039749" speaker_id="0003973c"/>
+			<speaker_to_text id="2000e990" text_id="00039748" speaker_id="00039750"/>
+			<speaker_to_text id="2000e991" text_id="0003973e" speaker_id="00039750"/>
+		</page>
+		<page index="56" width="1654" height="1170">
+			<speaker_to_text id="2000e992" text_id="00039756" speaker_id="00039766"/>
+			<speaker_to_text id="2000e993" text_id="00039754" speaker_id="0003976b"/>
+			<speaker_to_text id="2000e994" text_id="0003975b" speaker_id="00039776"/>
+			<speaker_to_text id="2000e995" text_id="00039768" speaker_id="00039776"/>
+			<speaker_to_text id="2000e996" text_id="00039773" speaker_id="00039775"/>
+			<speaker_to_text id="2000e997" text_id="00039758" speaker_id="00039776"/>
+			<speaker_to_text id="2000e998" text_id="00039778" speaker_id="00039765"/>
+			<speaker_to_text id="2000e999" text_id="00039779" speaker_id="00039775"/>
+			<speaker_to_text id="2000e99a" text_id="0003977d" speaker_id="0003976a"/>
+			<speaker_to_text id="2000e99b" text_id="0003975c" speaker_id="00039766"/>
+			<speaker_to_text id="2000e99c" text_id="00039767" speaker_id="00039776"/>
+			<speaker_to_text id="2000e99d" text_id="00039769" speaker_id="0003977a"/>
+			<speaker_to_text id="2000e99e" text_id="00039757" speaker_id="00039766"/>
+		</page>
+		<page index="57" width="1654" height="1170">
+			<speaker_to_text id="2000e99f" text_id="00039789" speaker_id="00039784"/>
+			<speaker_to_text id="2000e9a0" text_id="0003978c" speaker_id="00039784"/>
+		</page>
+		<page index="58" width="1654" height="1170">
+			<speaker_to_text id="2000e9a1" text_id="000397a3" speaker_id="000397b5"/>
+			<speaker_to_text id="2000e9a2" text_id="000397a1" speaker_id="000397ab"/>
+			<speaker_to_text id="2000e9a3" text_id="000397bd" speaker_id="000397ab"/>
+			<speaker_to_text id="2000e9a4" text_id="000397b1" speaker_id="000397ac"/>
+			<speaker_to_text id="2000e9a5" text_id="000397be" speaker_id="000397ac"/>
+		</page>
+		<page index="59" width="1654" height="1170">
+			<speaker_to_text id="2000e9a6" text_id="000397eb" speaker_id="000397d0"/>
+			<speaker_to_text id="2000e9a7" text_id="000397cf" speaker_id="000397f0"/>
+			<speaker_to_text id="2000e9a8" text_id="000397ef" speaker_id="000397db"/>
+			<speaker_to_text id="2000e9a9" text_id="000397e1" speaker_id="000397cc"/>
+			<speaker_to_text id="2000e9aa" text_id="000397d5" speaker_id="000397e4"/>
+			<speaker_to_text id="2000e9ab" text_id="000397e3" speaker_id="000397cc"/>
+			<speaker_to_text id="2000e9ac" text_id="000397e7" speaker_id="000397ea"/>
+			<speaker_to_text id="2000e9ad" text_id="000397e6" speaker_id="000397ea"/>
+			<speaker_to_text id="2000e9ae" text_id="000397e0" speaker_id="000397e4"/>
+		</page>
+		<page index="60" width="1654" height="1170">
+			<speaker_to_text id="2000e9af" text_id="00039800" speaker_id="00039815"/>
+			<speaker_to_text id="2000e9b0" text_id="000397f4" speaker_id="00039815"/>
+			<speaker_to_text id="2000e9b1" text_id="00039803" speaker_id="00039815"/>
+			<speaker_to_text id="2000e9b2" text_id="0003981c" speaker_id="00039817"/>
+		</page>
+		<page index="61" width="1654" height="1170">
+			<speaker_to_text id="2000e9b3" text_id="0003983d" speaker_id="0003983f"/>
+			<speaker_to_text id="2000e9b4" text_id="00039839" speaker_id="0003983b"/>
+			<speaker_to_text id="2000e9b5" text_id="0003982c" speaker_id="00039832"/>
+			<speaker_to_text id="2000e9b6" text_id="00039827" speaker_id="0003984a"/>
+			<speaker_to_text id="2000e9b7" text_id="00039849" speaker_id="0003983f"/>
+			<speaker_to_text id="2000e9b8" text_id="00039822" speaker_id="0003982e"/>
+		</page>
+		<page index="62" width="1654" height="1170">
+			<speaker_to_text id="2000e9b9" text_id="0003985b" speaker_id="00039856"/>
+			<speaker_to_text id="2000e9ba" text_id="00039857" speaker_id="0003985a"/>
+			<speaker_to_text id="2000e9bb" text_id="0003984b" speaker_id="00039856"/>
+		</page>
+		<page index="63" width="1654" height="1170">
+			<speaker_to_text id="2000e9bc" text_id="00039872" speaker_id="00039863"/>
+			<speaker_to_text id="2000e9bd" text_id="0003987b" speaker_id="0003986c"/>
+			<speaker_to_text id="2000e9be" text_id="00039869" speaker_id="0003986f"/>
+			<speaker_to_text id="2000e9bf" text_id="0003986b" speaker_id="00039863"/>
+		</page>
+		<page index="64" width="1654" height="1170">
+			<speaker_to_text id="2000e9c0" text_id="0003988e" speaker_id="00039894"/>
+			<speaker_to_text id="2000e9c1" text_id="0003988f" speaker_id="00039896"/>
+			<speaker_to_text id="2000e9c2" text_id="00039884" speaker_id="00039887"/>
+			<speaker_to_text id="2000e9c3" text_id="00039898" speaker_id="0003988d"/>
+		</page>
+		<page index="65" width="1654" height="1170">
+			<speaker_to_text id="2000e9c4" text_id="0003989c" speaker_id="000398a2"/>
+			<speaker_to_text id="2000e9c5" text_id="000398a5" speaker_id="000398a0"/>
+			<speaker_to_text id="2000e9c6" text_id="0003989f" speaker_id="00039899"/>
+			<speaker_to_text id="2000e9c7" text_id="000398a3" speaker_id="000398a0"/>
+		</page>
+		<page index="66" width="1654" height="1170">
+			<speaker_to_text id="2000e9c8" text_id="000398b3" speaker_id="000398c1"/>
+			<speaker_to_text id="2000e9c9" text_id="000398a6" speaker_id="000398b2"/>
+			<speaker_to_text id="2000e9ca" text_id="000398b0" speaker_id="000398ae"/>
+			<speaker_to_text id="2000e9cb" text_id="000398c0" speaker_id="000398bc"/>
+			<speaker_to_text id="2000e9cc" text_id="000398b5" speaker_id="000398aa"/>
+		</page>
+		<page index="67" width="1654" height="1170">
+			<speaker_to_text id="2000e9cd" text_id="000398c2" speaker_id="000398c6"/>
+			<speaker_to_text id="2000e9ce" text_id="000398ca" speaker_id="000398c3"/>
+			<speaker_to_text id="2000e9cf" text_id="000398cf" speaker_id="000398d5"/>
+			<speaker_to_text id="2000e9d0" text_id="000398d0" speaker_id="000398d5"/>
+		</page>
+		<page index="68" width="1654" height="1170">
+			<speaker_to_text id="2000e9d1" text_id="000398e2" speaker_id="00039907"/>
+			<speaker_to_text id="2000e9d2" text_id="000398fe" speaker_id="0003990b"/>
+			<speaker_to_text id="2000e9d3" text_id="000398dc" speaker_id="00039905"/>
+			<speaker_to_text id="2000e9d4" text_id="00039902" speaker_id="0003990f"/>
+			<speaker_to_text id="2000e9d5" text_id="000398fb" speaker_id="00039901"/>
+			<speaker_to_text id="2000e9d6" text_id="000398f7" speaker_id="000398fa"/>
+			<speaker_to_text id="2000e9d7" text_id="000398d9" speaker_id="000398fa"/>
+			<speaker_to_text id="2000e9d8" text_id="000398e6" speaker_id="00039912"/>
+			<speaker_to_text id="2000e9d9" text_id="000398ea" speaker_id="00039903"/>
+			<speaker_to_text id="2000e9da" text_id="0003990e" speaker_id="00039912"/>
+			<speaker_to_text id="2000e9db" text_id="0003990c" speaker_id="0003990a"/>
+			<speaker_to_text id="2000e9dc" text_id="000398f0" speaker_id="00039901"/>
+			<speaker_to_text id="2000e9dd" text_id="000398fc" speaker_id="0003990d"/>
+			<speaker_to_text id="2000e9de" text_id="000398e0" speaker_id="000398e3"/>
+			<speaker_to_text id="2000e9df" text_id="000398e5" speaker_id="00039907"/>
+			<speaker_to_text id="2000e9e0" text_id="000398e8" speaker_id="000398ec"/>
+			<speaker_to_text id="2000e9e1" text_id="000398da" speaker_id="0003990f"/>
+			<speaker_to_text id="2000e9e2" text_id="00039908" speaker_id="00039901"/>
+		</page>
+		<page index="69" width="1654" height="1170">
+			<speaker_to_text id="2000e9e3" text_id="0003991d" speaker_id="00039929"/>
+			<speaker_to_text id="2000e9e4" text_id="0003991e" speaker_id="00039923"/>
+			<speaker_to_text id="2000e9e5" text_id="00039914" speaker_id="0003992a"/>
+			<speaker_to_text id="2000e9e6" text_id="00039934" speaker_id="0003992a"/>
+			<speaker_to_text id="2000e9e7" text_id="00039913" speaker_id="00039921"/>
+			<speaker_to_text id="2000e9e8" text_id="00039917" speaker_id="0003991a"/>
+			<speaker_to_text id="2000e9e9" text_id="0003992d" speaker_id="0003991c"/>
+			<speaker_to_text id="2000e9ea" text_id="00039930" speaker_id="00039921"/>
+			<speaker_to_text id="2000e9eb" text_id="00039932" speaker_id="00039923"/>
+			<speaker_to_text id="2000e9ec" text_id="00039931" speaker_id="00039923"/>
+			<speaker_to_text id="2000e9ed" text_id="00039920" speaker_id="00039923"/>
+			<speaker_to_text id="2000e9ee" text_id="00039915" speaker_id="00039923"/>
+			<speaker_to_text id="2000e9ef" text_id="0003992e" speaker_id="00039923"/>
+		</page>
+		<page index="70" width="1654" height="1170">
+			<speaker_to_text id="2000e9f0" text_id="00039936" speaker_id="0003993f"/>
+		</page>
+		<page index="71" width="1654" height="1170"/>
+		<page index="72" width="1654" height="1170">
+			<speaker_to_text id="2000e9f1" text_id="0003996c" speaker_id="00039977"/>
+			<speaker_to_text id="2000e9f2" text_id="00039970" speaker_id="00039963"/>
+			<speaker_to_text id="2000e9f3" text_id="00039967" speaker_id="00039961"/>
+			<speaker_to_text id="2000e9f4" text_id="00039968" speaker_id="00039961"/>
+			<speaker_to_text id="2000e9f5" text_id="0003996a" speaker_id="00039963"/>
+		</page>
+		<page index="73" width="1654" height="1170">
+			<speaker_to_text id="2000e9f6" text_id="0003997a" speaker_id="00039978"/>
+			<speaker_to_text id="2000e9f7" text_id="00039983" speaker_id="0003997d"/>
+			<speaker_to_text id="2000e9f8" text_id="00039979" speaker_id="00039978"/>
+		</page>
+		<page index="74" width="1654" height="1170">
+			<speaker_to_text id="2000e9f9" text_id="00039987" speaker_id="00039999"/>
+			<speaker_to_text id="2000e9fa" text_id="00039989" speaker_id="00039995"/>
+			<speaker_to_text id="2000e9fb" text_id="0003999b" speaker_id="00039999"/>
+			<speaker_to_text id="2000e9fc" text_id="00039998" speaker_id="00039997"/>
+			<speaker_to_text id="2000e9fd" text_id="00039990" speaker_id="00039999"/>
+			<speaker_to_text id="2000e9fe" text_id="00039988" speaker_id="0003998f"/>
+			<speaker_to_text id="2000e9ff" text_id="0003998b" speaker_id="00039993"/>
+		</page>
+		<page index="75" width="1654" height="1170">
+			<speaker_to_text id="2000ea00" text_id="000399ae" speaker_id="000399b3"/>
+			<speaker_to_text id="2000ea01" text_id="000399b7" speaker_id="000399b3"/>
+			<speaker_to_text id="2000ea02" text_id="000399a7" speaker_id="000399b6"/>
+			<speaker_to_text id="2000ea03" text_id="000399a4" speaker_id="000399b6"/>
+		</page>
+		<page index="76" width="1654" height="1170">
+			<speaker_to_text id="2000ea04" text_id="000399cd" speaker_id="000399d1"/>
+			<speaker_to_text id="2000ea05" text_id="000399d8" speaker_id="000399b8"/>
+			<speaker_to_text id="2000ea06" text_id="000399c7" speaker_id="000399cf"/>
+			<speaker_to_text id="2000ea07" text_id="000399cb" speaker_id="000399b8"/>
+			<speaker_to_text id="2000ea08" text_id="000399ca" speaker_id="000399d4"/>
+			<speaker_to_text id="2000ea09" text_id="000399b9" speaker_id="000399cf"/>
+			<speaker_to_text id="2000ea0a" text_id="000399d7" speaker_id="000399b8"/>
+		</page>
+		<page index="77" width="1654" height="1170">
+			<speaker_to_text id="2000ea0b" text_id="000399e8" speaker_id="000399e3"/>
+		</page>
+		<page index="78" width="1654" height="1170">
+			<speaker_to_text id="2000ea0c" text_id="000399f3" speaker_id="000399f0"/>
+		</page>
+		<page index="79" width="1654" height="1170">
+			<speaker_to_text id="2000ea0d" text_id="00039a00" speaker_id="00039a0e"/>
+			<speaker_to_text id="2000ea0e" text_id="00039a18" speaker_id="00039a06"/>
+			<speaker_to_text id="2000ea0f" text_id="000399f9" speaker_id="00039a0c"/>
+			<speaker_to_text id="2000ea10" text_id="00039a10" speaker_id="00039a02"/>
+			<speaker_to_text id="2000ea11" text_id="00039a14" speaker_id="00039a0e"/>
+			<speaker_to_text id="2000ea12" text_id="00039a1d" speaker_id="00039a0f"/>
+			<speaker_to_text id="2000ea13" text_id="00039a15" speaker_id="000399f6"/>
+			<speaker_to_text id="2000ea14" text_id="00039a0d" speaker_id="00039a06"/>
+			<speaker_to_text id="2000ea15" text_id="00039a07" speaker_id="00039a0c"/>
+			<speaker_to_text id="2000ea16" text_id="000399f7" speaker_id="00039a0f"/>
+			<speaker_to_text id="2000ea17" text_id="000399fb" speaker_id="00039a02"/>
+		</page>
+		<page index="80" width="1654" height="1170">
+			<speaker_to_text id="2000ea18" text_id="00039a25" speaker_id="00039a2c"/>
+			<speaker_to_text id="2000ea19" text_id="00039a38" speaker_id="00039a26"/>
+			<speaker_to_text id="2000ea1a" text_id="00039a37" speaker_id="00039a26"/>
+			<speaker_to_text id="2000ea1b" text_id="00039a36" speaker_id="00039a3f"/>
+			<speaker_to_text id="2000ea1c" text_id="00039a29" speaker_id="00039a3f"/>
+			<speaker_to_text id="2000ea1d" text_id="00039a20" speaker_id="00039a1e"/>
+		</page>
+		<page index="81" width="1654" height="1170">
+			<speaker_to_text id="2000ea1e" text_id="00039a54" speaker_id="00039a4e"/>
+			<speaker_to_text id="2000ea1f" text_id="00039a57" speaker_id="00039a4f"/>
+			<speaker_to_text id="2000ea20" text_id="00039a58" speaker_id="00039a4f"/>
+			<speaker_to_text id="2000ea21" text_id="00039a56" speaker_id="00039a50"/>
+			<speaker_to_text id="2000ea22" text_id="00039a4b" speaker_id="00039a50"/>
+			<speaker_to_text id="2000ea23" text_id="00039a4d" speaker_id="00039a55"/>
+		</page>
+		<page index="82" width="1654" height="1170">
+			<speaker_to_text id="2000ea24" text_id="00039a6a" speaker_id="00039a6e"/>
+			<speaker_to_text id="2000ea25" text_id="00039a60" speaker_id="00039a69"/>
+		</page>
+		<page index="83" width="1654" height="1170">
+			<speaker_to_text id="2000ea26" text_id="00039a88" speaker_id="00039a90"/>
+			<speaker_to_text id="2000ea27" text_id="00039a8f" speaker_id="00039a87"/>
+			<speaker_to_text id="2000ea28" text_id="00039a76" speaker_id="00039a85"/>
+		</page>
+		<page index="84" width="1654" height="1170">
+			<speaker_to_text id="2000ea29" text_id="00039aa2" speaker_id="00039aad"/>
+			<speaker_to_text id="2000ea2a" text_id="00039a9b" speaker_id="00039aaf"/>
+			<speaker_to_text id="2000ea2b" text_id="00039aa1" speaker_id="00039aa3"/>
+			<speaker_to_text id="2000ea2c" text_id="00039a99" speaker_id="00039aad"/>
+			<speaker_to_text id="2000ea2d" text_id="00039ab0" speaker_id="00039aa3"/>
+			<speaker_to_text id="2000ea2e" text_id="00039a9c" speaker_id="00039aa3"/>
+		</page>
+		<page index="85" width="1654" height="1170">
+			<speaker_to_text id="2000ea2f" text_id="00039abb" speaker_id="00039aba"/>
+			<speaker_to_text id="2000ea30" text_id="00039ac3" speaker_id="00039abe"/>
+			<speaker_to_text id="2000ea31" text_id="00039ab3" speaker_id="00039ac2"/>
+		</page>
+		<page index="86" width="1654" height="1170">
+			<speaker_to_text id="2000ea32" text_id="00039ae0" speaker_id="00039acb"/>
+			<speaker_to_text id="2000ea33" text_id="00039adb" speaker_id="00039ae1"/>
+			<speaker_to_text id="2000ea34" text_id="00039add" speaker_id="00039ad0"/>
+			<speaker_to_text id="2000ea35" text_id="00039ad5" speaker_id="00039acb"/>
+		</page>
+		<page index="87" width="1654" height="1170">
+			<speaker_to_text id="2000ea36" text_id="00039ae6" speaker_id="00039aea"/>
+			<speaker_to_text id="2000ea37" text_id="00039ae2" speaker_id="00039aea"/>
+		</page>
+		<page index="88" width="1654" height="1170">
+			<speaker_to_text id="2000ea38" text_id="00039af4" speaker_id="00039afe"/>
+			<speaker_to_text id="2000ea39" text_id="00039b00" speaker_id="00039afe"/>
+			<speaker_to_text id="2000ea3a" text_id="00039afc" speaker_id="00039af9"/>
+			<speaker_to_text id="2000ea3b" text_id="00039af2" speaker_id="00039afe"/>
+			<speaker_to_text id="2000ea3c" text_id="00039af0" speaker_id="00039af9"/>
+		</page>
+		<page index="89" width="1654" height="1170">
+			<speaker_to_text id="2000ea3d" text_id="00039b32" speaker_id="00039b30"/>
+			<speaker_to_text id="2000ea3e" text_id="00039b21" speaker_id="00039b02"/>
+			<speaker_to_text id="2000ea3f" text_id="00039b11" speaker_id="00039b03"/>
+		</page>
+		<page index="90" width="1654" height="1170"/>
+		<page index="91" width="1654" height="1170">
+			<speaker_to_text id="2000ea40" text_id="00039b48" speaker_id="00039b50"/>
+			<speaker_to_text id="2000ea41" text_id="00039b40" speaker_id="00039b50"/>
+			<speaker_to_text id="2000ea42" text_id="00039b3a" speaker_id="00039b45"/>
+			<speaker_to_text id="2000ea43" text_id="00039b42" speaker_id="00039b51"/>
+			<speaker_to_text id="2000ea44" text_id="00039b4a" speaker_id="00039b53"/>
+			<speaker_to_text id="2000ea45" text_id="00039b3f" speaker_id="00039b51"/>
+			<speaker_to_text id="2000ea46" text_id="00039b47" speaker_id="00039b45"/>
+			<speaker_to_text id="2000ea47" text_id="00039b3e" speaker_id="00039b45"/>
+			<speaker_to_text id="2000ea48" text_id="00039b46" speaker_id="00039b51"/>
+		</page>
+		<page index="92" width="1654" height="1170">
+			<speaker_to_text id="2000ea49" text_id="00039b5d" speaker_id="00039b6a"/>
+			<speaker_to_text id="2000ea4a" text_id="00039b5e" speaker_id="00039b60"/>
+			<speaker_to_text id="2000ea4b" text_id="00039b61" speaker_id="00039b6a"/>
+			<speaker_to_text id="2000ea4c" text_id="00039b6c" speaker_id="00039b5a"/>
+		</page>
+		<page index="93" width="1654" height="1170"/>
+		<page index="94" width="1654" height="1170"/>
+		<page index="95" width="1654" height="1170"/>
+	</pages>
+</book>
