@@ -34,7 +34,7 @@ Example of a xml file is shown below.
   </book>
   ```
 
-- Manga109Dialog, Related project: [TODO]
+- [Manga109Dialog](https://github.com/manga109/public-annotations/tree/main/Manga109Dialog), Related project: [TODO]<br>
 Example of a xml file is shown below.
   ```xml 
   <?xml version="1.0" ?>
@@ -79,4 +79,4 @@ When using annotations of comic onomatopoeia dataset (COO), please cite our pape
 
 
 # License
-The annotations of comic onomatopoeia dataset (COO) belong to [Aizawa Yamakata Matsui Lab](http://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml) and are licensed under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+The annotations of comic onomatopoeia dataset (COO) and Manga109Dialog belong to [Aizawa Yamakata Matsui Lab](http://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml) and are licensed under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
