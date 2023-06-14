@@ -94,4 +94,4 @@ TODO
 
 
 ### License
-TODO
+The annotations of Manga109Dialog belong to [Aizawa Yamakata Matsui Lab](http://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml) and are licensed under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See the [LICENCE_Manga109Dialog](./LICENSE_Manga109Dialog).
