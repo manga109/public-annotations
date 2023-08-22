@@ -59,7 +59,7 @@ The annotations of comic onomatopoeia dataset (COO) belong to [Aizawa Yamakata M
 
 
 ## Manga109Dialog
-[Manga109Dialog](https://github.com/manga109/public-annotations/tree/main/Manga109Dialog), Related project: [TODO]
+[Manga109Dialog](https://github.com/manga109/public-annotations/tree/main/Manga109Dialog), Related project: https://github.com/liyingxuan1012/SGG_based_speaker_prediction
 
 ### Annotation type list
 Example of a xml file is shown below.
