@@ -59,7 +59,7 @@ The annotations of comic onomatopoeia dataset (COO) belong to [Aizawa Yamakata M
 
 
 ## Manga109Dialog
-[Manga109Dialog](https://github.com/manga109/public-annotations/tree/main/Manga109Dialog), Related project: https://github.com/liyingxuan1012/SGG_based_speaker_prediction
+[Manga109Dialog](https://github.com/manga109/public-annotations/tree/main/Manga109Dialog), Related project: https://github.com/liyingxuan1012/Manga109Dialog
 
 ### Annotation type list
 Example of a xml file is shown below.
@@ -93,13 +93,12 @@ Example of a xml file is shown below.
 ### Citation
 When using annotations of Manga109Dialog, please cite our paper.
 ```
-@misc{li2023manga109dialog,
-      title={Manga109Dialog A Large-scale Dialogue Dataset for Comics Speaker Detection}, 
-      author={Yingxuan Li and Kiyoharu Aizawa and Yusuke Matsui},
-      year={2023},
-      eprint={2306.17469},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
+@inproceedings{li2024manga109dialog,
+  title={Manga109Dialog: A Large-scale Dialogue Dataset for Comics Speaker Detection},
+  author={Li, Yingxuan and Aizawa, Kiyoharu and Matsui, Yusuke},
+  booktitle={2024 IEEE International Conference on Multimedia and Expo (ICME)},
+  year={2024},
+  organization={IEEE}
 }
 ```
 
