@@ -1,0 +1,30 @@
+{
+    "descriptions": {
+        "しーん": "The scene is silent.",
+        "はっ": "A character is startled, and their breath is taken away.",
+        "ガチャ": "A clattering or rattling sound is made.",
+        "ザッ": "A sudden sound is made.",
+        "キャー": "A character or a crowd is screaming.",
+        "ニコ": "A character is smiling and looking happy.",
+        "キョロ": "A character is looking around curiously.",
+        "クス": "A character or a crowd is giggling, chuckling, or snickering.",
+        "ザワ": "The noise of a crowd fills the scene.",
+        "もぐ": "A character is munching on some food.",
+        "ビクッ": "A character is startled or alarmed.",
+        "ワー": "A character or a crowd is shouting."
+    },
+    "negative": {
+        "しーん": ["キャー", "ザワ"],
+        "はっ": ["ニコ", "クス"],
+        "ガチャ": ["キャー", "しーん"],
+        "ザッ": ["クス", "もぐ"],
+        "キャー": ["しーん", "もぐ"],
+        "ニコ": ["はっ", "ビクッ"],
+        "キョロ": ["もぐ", "ニコ"],
+        "クス": ["ワー", "もぐ"],
+        "ザワ": ["しーん", "もぐ"],
+        "もぐ": ["ガチャ", "ワー"],
+        "ビクッ": ["クス", "ニコ"],
+        "ワー": ["クス", "しーん"]
+    }
+}
