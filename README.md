@@ -2,7 +2,7 @@
 We provide various annotations of Manga109 dataset.
 - [Comic Onomatopoeia (COO)](#comic-onomatopoeia-coo)
 - [Manga109Dialog](#Manga109dialog)
-
+- [MangaUB Benchmark Annotations](#mangaub-benchmark-annotations)
 
 
 
@@ -104,3 +104,43 @@ When using annotations of Manga109Dialog, please cite our paper.
 
 ### License
 The annotations of Manga109Dialog belong to [Aizawa Yamakata Matsui Lab](http://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml) and are licensed under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See the [LICENCE_Manga109Dialog](./LICENSE_Manga109Dialog).
+
+
+
+## MangaUB Benchmark Annotations
+
+Contains the base data used to create the prompts for the [MangaUB benchmark](https://github.com/woodrush/manga-ub) ([paper](https://doi.org/10.1109/MMUL.2025.3550451)), a benchmark designed to evaluate multimodal large language models on manga understanding tasks.
+The benchmark code is available at: https://github.com/woodrush/manga-ub
+
+> ⚠️ Note: The primary purpose of this dataset is to create the prompts used for the MangaUB benchmark.
+> Some of the annotations depend on external datasets and are not directly usable without them.
+
+The following files pertain to the Single-Panel Tasks of MangaUB and can be used independently:
+
+- `character_count.csv`: Annotates the number of characters (human or non-human) appearing in each panel.
+  - `panel_id`: UUID of the `frame` element in the Manga109 dataset.
+  - `n_characters`: Number of characters in the given panel.
+- `recognition_background.csv`: Provides scene-level labels for the Location, Time of Day, and Weather tasks.
+  - `panel_id`: UUID of the `frame` element in the Manga109 dataset.
+  - `category`: Task type - `Location` / `Time_of_Day` / `Weather`.
+  - `label`: Corresponding label (e.g., Indoors/Outdoors, Day/Night, Sunny/Rainy/Snowy).
+
+For further details of the data, please see [./MangaUB-Annotations/README.md](./MangaUB-Annotations/README.md).
+For details on the benchmark tasks and usage, please visit the main repository: https://github.com/woodrush/manga-ub .
+
+### Citation
+When using the MangaUB annotations, please cite our paper:
+```
+@article{mangaub2025,
+  author={Ikuta, Hikaru and Wohler, Leslie and Aizawa, Kiyoharu},
+  journal={IEEE MultiMedia},
+  title={MangaUB: A Manga Understanding Benchmark for Large Multimodal Models},
+  year={2025},
+  pages={1-10},
+  doi={10.1109/MMUL.2025.3550451}
+}
+```
+
+
+### License
+The annotations of the MangaUB dataset belong to [Aizawa Yamakata Matsui Lab](http://www.hal.t.u-tokyo.ac.jp/lab/en/index_1.xhtml) and are licensed under a [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See the [LICENCE_MANGAUB](./LICENSE_MANGAUB).
